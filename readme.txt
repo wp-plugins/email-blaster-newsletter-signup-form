@@ -8,8 +8,8 @@ Author URI:        http://www.emailblasteruk.com
 Author:            Chris Peters
 Requires at least: 2.3 
 Tested up to:      3.9.2
-Stable tag:        1.0.1
-Version:           1.0.1
+Stable tag:        1.0.2
+Version:           1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

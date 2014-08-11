@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Email Blaster Newsletter Signup Form ===
 
 Contributors:      emailblaster
 Plugin Name:       Email Blaster Newsletter Signup Form

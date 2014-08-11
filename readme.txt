@@ -27,7 +27,7 @@ Embed a double opt-in newsletter signup form to your WordPress website. Allow yo
 **Contact Forms**
 Use email blaster to create any form for your website quickly; contact forms, surveys, enquiry forms and more. Then quickly embed on your WordPress site.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/p__Th95VewQ" frameborder="0" allowfullscreen></iframe>
+http://www.youtube.com/embed/p__Th95VewQ
 
 Note: You will need an email blaster account to use this plugin (it's free | [open account](http://www.emailblasteruk.com/free)). Forms are created inside your email blaster cloud software, you will then be given a 7 digit QuickCode to enter into this WordPress plugin. Adding the QuickCode will automatically embed your form. 
 
@@ -50,14 +50,15 @@ Note: You will need an email blaster account to use this plugin (it's free | [op
 3. Click Plugins -> Add New -> Upload.
 4. Activate the plugin.
 5. Head over to [email blaster](http://emailblasteruk.co.uk) and build your form.
-   (Don't have an account? [Open account & build form](http://emailblasteruk.co.uk/landing/wordpress/))
+   (Don't have an account? [Open account & build form](http://emailblasteruk.co.uk/landing/wordpress))
 6. Get your 7 digit form QuickCode from email blaster.
 7. Go to the Widgets area of your WordPress admin system.
 8. Paste the QuickCode into the WordPress widget to embed your form.
 
 **Need a little more help?**
 Check out the following YouTube getting started video:
-[https://www.youtube.com/watch?v=p__Th95VewQ]
+
+http://www.youtube.com/embed/p__Th95VewQ
 
 == Frequently Asked Questions ==
 

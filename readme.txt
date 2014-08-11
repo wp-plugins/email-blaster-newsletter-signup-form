@@ -49,8 +49,8 @@ Note: You will need an email blaster account to use this plugin (it's free | [op
 2. Log in to your-site.com/wp-admin.
 3. Click Plugins -> Add New -> Upload.
 4. Activate the plugin.
-5. Head over to [email blaster] (http://emailblasteruk.co.uk) and build your form.
-   (Don't have an account? [Open account & build form] (http://emailblasteruk.co.uk/landing/wordpress/))
+5. Head over to [email blaster](http://emailblasteruk.co.uk) and build your form.
+   (Don't have an account? [Open account & build form](http://emailblasteruk.co.uk/landing/wordpress/))
 6. Get your 7 digit form QuickCode from email blaster.
 7. Go to the Widgets area of your WordPress admin system.
 8. Paste the QuickCode into the WordPress widget to embed your form.
@@ -63,7 +63,7 @@ Check out the following YouTube getting started video:
 
 = Do I need a email blaster account? =
 
-Yes, but you can open one for free at [email blaster] (http://www.emailblasteruk.com/free).
+Yes, but you can open one for free at [email blaster](http://www.emailblasteruk.com/free).
 
 = How do I build a form? =
 
@@ -99,7 +99,7 @@ No, any updates made to your form from inside email blaster will automatically u
 
 = I'm still stuck! =
 
-Head over here to visit our [contact page] (http://www.emailblasteruk.com/contact). Our team will be happy to assist with any integration queries which you may have. We are lovely people and we don't bite!
+Head over here to visit our [contact page](http://www.emailblasteruk.com/contact). Our team will be happy to assist with any integration queries which you may have. We are lovely people and we don't bite!
 
 == Screenshots ==
 

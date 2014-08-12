@@ -8,8 +8,8 @@ Author URI:        http://www.emailblasteruk.com
 Author:            Chris Peters
 Requires at least: 2.3 
 Tested up to:      3.9.2
-Stable tag:        1.0.2
-Version:           1.0.2
+Stable tag:        1.0.3
+Version:           1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,7 +27,7 @@ Embed a double opt-in newsletter signup form to your WordPress website. Allow yo
 **Contact Forms**
 Use email blaster to create any form for your website quickly; contact forms, surveys, enquiry forms and more. Then quickly embed on your WordPress site.
 
-http://www.youtube.com/embed/p__Th95VewQ
+[youtube https://www.youtube.com/watch?v=p__Th95VewQ]
 
 Note: You will need an email blaster account to use this plugin (it's free | [open account](http://www.emailblasteruk.com/free)). Forms are created inside your email blaster cloud software, you will then be given a 7 digit QuickCode to enter into this WordPress plugin. Adding the QuickCode will automatically embed your form. 
 
@@ -58,7 +58,7 @@ Note: You will need an email blaster account to use this plugin (it's free | [op
 **Need a little more help?**
 Check out the following YouTube getting started video:
 
-http://www.youtube.com/embed/p__Th95VewQ
+[youtube https://www.youtube.com/watch?v=p__Th95VewQ]
 
 == Frequently Asked Questions ==
 
@@ -114,5 +114,14 @@ Head over here to visit our [contact page](http://www.emailblasteruk.com/contact
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release.
+
+= 1.0.1 =
+* Minor code update.
+
+= 1.0.2 =
+* Minor code update.
+
+= 1.0.3 =
+* Fixes bug where multiple instances on same page causes error.

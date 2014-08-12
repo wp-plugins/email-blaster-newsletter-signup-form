@@ -137,7 +137,9 @@ class emailblaster extends WP_Widget
 		echo $before_widget;
 		
 		// [Email Blaster]Generate Submitted Embed Code
-		function base64url_decode($data) { return base64_decode(str_pad(strtr($data, '-_', '+/'), strlen($data) % 4, '=', STR_PAD_RIGHT));}
+		if(function_exists('base64url_decode')){ } else {
+			function base64url_decode($data) { return base64_decode(str_pad(strtr($data, '-_', '+/'), strlen($data) % 4, '=', STR_PAD_RIGHT));}
+		}
         $eb_Translate = base64url_decode($instance['code']);
 		
         

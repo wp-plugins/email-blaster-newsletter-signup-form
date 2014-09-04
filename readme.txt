@@ -7,7 +7,7 @@ Tags:              email, forms, email blaster, mailing lists, marketing, newsle
 Author URI:        http://www.emailblasteruk.com
 Author:            Chris Peters
 Requires at least: 2.3 
-Tested up to:      3.9.2
+Tested up to:      4.0
 Stable tag:        1.0.3
 Version:           1.0.3
 License: GPLv2

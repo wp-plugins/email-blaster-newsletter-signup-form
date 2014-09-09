@@ -1,7 +1,7 @@
 === Email Blaster Newsletter Signup Form ===
 
 Contributors:      emailblaster
-Plugin Name:       Quick Newsletter Signup Form by Email Blaster.
+Plugin Name:       Quick Newsletter Signup Form.
 Plugin URI:        http://www.emailblasteruk.com/wordpress
 Tags:              email newsletter signup form, newsletter signup form, newsletter signup form builder, newsletter form, form builder, signup, subscribe form, newsletter, email blaster, mailing lists
 Author URI:        http://www.emailblasteruk.com

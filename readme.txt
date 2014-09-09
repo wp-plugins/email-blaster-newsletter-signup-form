@@ -1,9 +1,9 @@
 === Email Blaster Newsletter Signup Form ===
 
 Contributors:      emailblaster
-Plugin Name:       Email Blaster Newsletter Signup Form
+Plugin Name:       Quick Newsletter Signup Form by Email Blaster.
 Plugin URI:        http://www.emailblasteruk.com/wordpress
-Tags:              email, forms, email blaster, mailing lists, marketing, newsletter, signup, signup form
+Tags:              email newsletter signup form, newsletter signup form, newsletter signup form builder, newsletter form, form builder, signup, subscribe form, newsletter, email blaster, mailing lists
 Author URI:        http://www.emailblasteruk.com
 Author:            Chris Peters
 Requires at least: 2.3 
@@ -17,7 +17,7 @@ Quickly embed email blaster forms on your WordPress powered site. Add a newslett
 
 == Description ==
 
-The official email blaster WordPress plugin lets you quickly add email blaster newsletter signup and contact forms to your WordPress site. 
+The official email blaster WordPress plugin lets you quickly add email blaster Newsletter Signup form and contact forms to your WordPress site. 
 
 Build your form for free inside email blaster, get your 7 digit QuickCode, paste inside this app, done!
 
@@ -25,7 +25,7 @@ Build your form for free inside email blaster, get your 7 digit QuickCode, paste
 Embed a double opt-in newsletter signup form to your WordPress website. Allow your website visitors to join your mailing lists. No web design skills required, get up and running in under 5 minutes. After embedding your form, you can use the power of email blaster to mail your subscribers for free. 
 
 **Contact Forms**
-Use email blaster to create any form for your website quickly; contact forms, surveys, enquiry forms and more. Then quickly embed on your WordPress site.
+Use email blaster to create any form/newsletter signup form for your website quickly; contact forms, surveys, enquiry forms and more. Then quickly embed on your WordPress site.
 
 [youtube https://www.youtube.com/watch?v=p__Th95VewQ]
 
@@ -33,7 +33,7 @@ Note: You will need an email blaster account to use this plugin (it's free | [op
 
 **Features:**
 
-*	No coding required, simply paste in a 7 digit QuickCode to embed your form.
+*	No coding required, simply paste in a 7 digit QuickCode to embed your newsletter signup form.
 *	Double opt-in to prevent fake submissions.
 *	reCaptcha spam prevention.
 *	Use the email blaster drag and drop builder to create any bespoke form.
@@ -53,7 +53,7 @@ Note: You will need an email blaster account to use this plugin (it's free | [op
    (Don't have an account? [Open account & build form](http://emailblasteruk.co.uk/landing/wordpress))
 6. Get your 7 digit form QuickCode from email blaster.
 7. Go to the Widgets area of your WordPress admin system.
-8. Paste the QuickCode into the WordPress widget to embed your form.
+8. Paste the QuickCode into the WordPress widget to embed your newsletter signup form.
 
 **Need a little more help?**
 Check out the following YouTube getting started video:
@@ -96,7 +96,7 @@ You can quickly adjust the width of your form to fit any WordPress layout. From 
 
 = If I update my form, do I need to get a new QuickCode? =
 
-No, any updates made to your form from inside email blaster will automatically update on your WordPress site (within 60 seconds of saving amends). A QuickCode is valid for the life of your form. 
+No, any updates made to your newsletter signup form from inside email blaster will automatically update on your WordPress site (within 60 seconds of saving amends). A QuickCode is valid for the life of your form. 
 
 = I'm still stuck! =
 
@@ -105,7 +105,7 @@ Head over here to visit our [contact page](http://www.emailblasteruk.com/contact
 == Screenshots ==
 
 1. Example of a embedded newsletter signup form.
-2. To embed your form, simply enter your QuickCode into the widget.
+2. To embed your newsletter signup form, simply enter your QuickCode into the widget.
 3. Select from a wide range of pre-build templates, or create your own.
 4. The form builder screen. This is where you create your form.
 5. Click 'get code' and you will be provided with your WordPress embed code.

@@ -7,7 +7,7 @@ Tags:              email newsletter signup form, newsletter signup form, newslet
 Author URI:        http://www.emailblasteruk.com
 Author:            Chris Peters
 Requires at least: 2.3 
-Tested up to:      4.0
+Tested up to:      4.1.1
 Stable tag:        1.0.3
 Version:           1.0.3
 License: GPLv2
